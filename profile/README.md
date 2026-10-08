@@ -34,6 +34,8 @@ curl -X POST https://api.zapclaw.app/api/v1/send/text \
 | Can I connect a German or other EU number? | [Germany and the EU][eu-en] | [Alemanha e UE][eu-pt] |
 | Can my own AI read WhatsApp messages through a webhook? | [Webhook to your AI][ai-en] | [Webhook para a sua IA][ai-pt] |
 | How do I run Chatwoot with the number still on the phone? | [Chatwoot guide][chatwoot] | [chatwoot-zapclaw](https://github.com/zapclaw/chatwoot-zapclaw/blob/main/README.pt-BR.md) |
+| Can self-hosted Chatwoot use the official WhatsApp API without Meta App Review? | [Chatwoot on the official API][cw-en] | [Chatwoot na API oficial][cw-pt] |
+| Why does Chatwoot return 401 Unauthorized to WhatsApp webhooks? | [Causes and fix][cw401-en] | [Causas e solução][cw401-pt] |
 
 ## What it is not
 
@@ -101,3 +103,7 @@ nem é endossado por ela.
 [eu-pt]: https://zapclaw.app/pt/coexistence-germany-eu.html?utm_source=github&utm_medium=referral&utm_campaign=org-profile
 [ai-en]: https://zapclaw.app/whatsapp-webhook-local-ai.html?utm_source=github&utm_medium=referral&utm_campaign=org-profile
 [ai-pt]: https://zapclaw.app/pt/whatsapp-webhook-local-ai.html?utm_source=github&utm_medium=referral&utm_campaign=org-profile
+[cw-en]: https://zapclaw.app/chatwoot-whatsapp-official-api.html?utm_source=github&utm_medium=referral&utm_campaign=org-profile
+[cw-pt]: https://zapclaw.app/pt/chatwoot-whatsapp-official-api.html?utm_source=github&utm_medium=referral&utm_campaign=org-profile
+[cw401-en]: https://zapclaw.app/chatwoot-whatsapp-webhook-401.html?utm_source=github&utm_medium=referral&utm_campaign=org-profile
+[cw401-pt]: https://zapclaw.app/pt/chatwoot-whatsapp-webhook-401.html?utm_source=github&utm_medium=referral&utm_campaign=org-profile
